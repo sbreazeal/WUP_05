@@ -74,3 +74,6 @@ The odds ratio is 1.54 meaning women who got the drug were about 1.5 times more 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The question was is the drug effective for preventing aids in females? This study shows that this particular drug does not seem to be effective in preventing females from getting aids, rather the women who took the drug had a higher incidence of acquiring aids.  
+
